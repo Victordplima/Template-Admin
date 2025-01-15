@@ -50,6 +50,7 @@ export const IconeSino = (
         />
     </svg>
 );
+
 export const IconeSair = (
     <svg
         xmlns="http://www.w3.org/2000/svg"
